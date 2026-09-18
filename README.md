@@ -9,6 +9,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahendarJ&color=1F4E5F&style=flat" alt="Profile views"/>
+</p>
 
 ### 🚀 What I'm doing right now
 
