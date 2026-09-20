@@ -4,9 +4,7 @@
 <p align="center">
   <a href="https://mahendarj.netlify.app/">🌐 Portfolio</a> ·
   <a href="https://helloreps.in">🏋️ Reps (Live Product)</a> ·
-  <a href="https://www.linkedin.com/in/mahendarj/">💼 LinkedIn</a> ·
-  <a href="https://medium.com/@mahendarj10">✍️ Medium</a> ·
-  <a href="https://x.com/mahendarj10">𝕏 Twitter</a>
+  <a href="https://www.linkedin.com/in/mahendarj/">💼 LinkedIn</a>
 </p>
 
 <p align="center">
