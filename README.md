@@ -83,7 +83,7 @@ A pay-per-session gym discovery and booking platform, built and shipped as a **f
 
 <p align="center">
   <img src="https://github-readme-stats-seven-omega-48.vercel.app/api?username=MahendarJ&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats-drab-gamma.vercel.app//?user=MahendarJ&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats-drab-gamma.vercel.app/?user=MahendarJ&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
