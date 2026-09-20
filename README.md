@@ -82,12 +82,12 @@ A pay-per-session gym discovery and booking platform, built and shipped as a **f
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahendarJ&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-seven-omega-48.vercel.app/" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahendarJ&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahendarJ&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats-seven-omega-48.vercel.app/" alt="Top Languages"/>
 </p>
 
 ---
