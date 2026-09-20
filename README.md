@@ -2,7 +2,7 @@
 <h3 align="center">Product Manager with an Engineering Core — I Build the Product I'd Otherwise Have to Wait For</h3>
 
 <p align="center">
-  <a href="https://mahendarj.netlify.app/">🌐 Portfolio</a> ·
+  <a href="https://mahendarj.helloreps.in/">🌐 Portfolio</a> ·
   <a href="https://helloreps.in">🏋️ Reps (Live Product)</a> ·
   <a href="https://www.linkedin.com/in/mahendarj/">💼 LinkedIn</a>
 </p>
@@ -94,4 +94,4 @@ A pay-per-session gym discovery and booking platform, built and shipped as a **f
 
 I'm open to Product Manager / AI PM roles where technical depth is an asset, not a distraction.
 
-[LinkedIn](https://www.linkedin.com/in/mahendarj/) · [Portfolio](https://mahendar.jayagopi.helloreps.in/) · **mahendarj10@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/mahendarj/) · [Portfolio](https://mahendarj.helloreps.in/) · **mahendarj10@gmail.com**
