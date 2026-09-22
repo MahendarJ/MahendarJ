@@ -1,5 +1,5 @@
 <h1 align="center">Mahendar Jayagopi</h1>
-<h3 align="center">Founder & Technical Product Manager | 0 → 1 Builder</h3>
+<h3 align="center">Product Manager with an Engineering Core — I Build the Product I'd Otherwise Have to Wait For</h3>
 
 <p align="center">
   <a href="https://mahendar-jayagopi.helloreps.in/">🌐 Portfolio</a> ·
@@ -15,15 +15,15 @@
 
 ### 👋 About Me
 
-I am a Founder who built and shipped a 4-product B2B2C marketplace end-to-end, backed by 4+ years of deep engineering experience. 
+I'm a software engineer turned product manager who didn't just study product management — I built an entire multi-app ecosystem solo to prove I understand it end-to-end: ideation, design, engineering, payments, growth, analytics, and legal compliance, with no team to hand things off to.
 
-I don't just write PRDs and roadmaps—I execute on them. I bridge the gap between complex engineering realities and clear product strategy. If you're hiring a PM who can drive user research, define business metrics, *and* debug the backend architecture, that is exactly where I excel.
+If you're hiring a PM who can read a PRD *and* the codebase behind it, sit in on user interviews *and* debug the auth flow, that's the gap I sit in.
 
 ---
 
 ### 🏋️ Flagship Ecosystem — Reps
 
-A pay-per-session gym discovery and booking platform. I founded and owned the full product lifecycle for this 4-product ecosystem:
+A pay-per-session gym discovery and booking platform, built and shipped as a **full multi-app system**, solo:
 
 | App | What it does |
 |---|---|
@@ -32,11 +32,12 @@ A pay-per-session gym discovery and booking platform. I founded and owned the fu
 | **[Reps Partner Portal](https://partner.helloreps.in/)** | Dedicated access for individual gym-owner partners to manage their business on Reps |
 | **[Reps Super Admin](https://management.helloreps.in/)** | Internal management portal to operate and maintain the entire Reps system |
 
-**Product & Execution Metrics:**
-- **Full Lifecycle:** Scoped requirements, designed UX, built the backend, integrated payments, and deployed to the Play Store.
-- **Growth & Outbound:** Conducted 41 user surveys and achieved a 20% partner conversion rate through manual outreach and targeted ad campaigns.
-- **Data-Driven:** Instrumented every layer with PostHog (tracking 1,340+ events) so decisions are data-backed, maintaining 0 Sentry crashes in production.
-- **Compliance:** Took the product through India's DPDP Act compliance myself — Privacy Policy, ToS, Data Deletion Policy.
+**Product decisions I owned, not just executed:**
+- Priced and positioned the product around pay-per-session access, a gap in a membership-dominated market
+- Built the outbound growth engine from zero — manual gym-owner outreach, Facebook ad campaigns, survey-driven iteration
+- Took the product through India's DPDP Act compliance myself — Privacy Policy, ToS, Data Deletion Policy
+- Instrumented every layer with PostHog so decisions are data-backed, not guesses
+- Integrated and reconciled two payment providers (Razorpay + Cashfree) and Sentry for production crash reporting
 
 **Stack:** `React` `Vite` `TanStack` `React Native` `Supabase` `Razorpay` `Cashfree` `PostHog` `Amplitude` `Sentry`
 
@@ -44,35 +45,35 @@ A pay-per-session gym discovery and booking platform. I founded and owned the fu
 
 ---
 
-### 🧪 AI & Technical Case Studies
+### 🧪 Other Things I've Built
 
-- **Aura PDF Reader** — AI-powered PDF analysis tool with a Bring-Your-Own-Key (BYOK) model, supporting deep reading and analysis across all PDF types.
+- **Aura PDF Reader** — AI-powered PDF analysis tool with a Bring-Your-Own-Key (BYOK) model, supporting deep reading and analysis across all PDF types
   🔗 [Live](https://aura-pdfreader.netlify.app/) · [GitHub](https://github.com/MahendarJ/AI-PDF-Reader) · [Demo Video](https://lnkd.in/p/gHWkUSEY)
 
-- **Lumina** — A personalized AI assistant built with React + Vite that goes beyond static RAG: an autonomous agent with long-term memory that improves with use.
+- **Lumina** — A personalized AI assistant built with React + Vite that goes beyond static RAG: an autonomous agent with long-term memory that improves with use
   🔗 [Live](https://lumina-tau-orpin.vercel.app/) · [GitHub](https://github.com/MahendarJ/Lumina) · [Demo Post](https://lnkd.in/p/gYxRBqFt)
 
-- **Name-Ping Chrome Extension** — Custom-built extension that fires a real-time alert whenever my name is mentioned on any webpage.
+- **Name-Ping Chrome Extension** — Custom-built extension that fires a real-time alert whenever my name is mentioned on any webpage
   🔗 [GitHub](https://github.com/MahendarJ/nameping-extension) · [Demo Video](https://www.linkedin.com/posts/activity-7446506932653436928-bbbU)
 
 ---
 
-### 🎯 Core Capabilities
+### 🎯 Core Skills
 
-**Product Strategy & Research**
-`0 → 1 Product Launches` `Requirement Analysis` `PRD Writing` `MVP Scoping` `Survey Design`
-
-**Growth & Operations**
-`B2B/B2C Outreach` `SEO/AEO` `DPDP Act Compliance` 
+**Growth & Outbound**
+`Manual Lead/Owner Outreach` `WhatsApp & Instagram DM Systems` `Facebook Ads` `SEO/AEO` `Survey Design`
 
 **AI & Automation**
 `N8N` `Make.com` `LLM Prompt Engineering` `RAG` `Autonomous Agents`
 
-**Engineering Foundation (4+ Years)**
-`React` `Node.js` `NestJS` `Supabase` `CI/CD` `System Architecture`
+**Product & Technical**
+`Requirement Analysis` `PRD Writing` `MVP Scoping` `React` `Node.js` `NestJS` `Supabase` `Razorpay` `Cashfree` `CI/CD`
 
 **Analytics & Instrumentation**
-`PostHog` `Amplitude` `Sentry` `A/B Testing`
+`PostHog` `Amplitude` `Sentry` `Product Analytics`
+
+**Compliance & Legal**
+`India DPDP Act` `Privacy Policy Drafting` `ToS` `Data Deletion Policy`
 
 ---
 
@@ -91,6 +92,6 @@ A pay-per-session gym discovery and booking platform. I founded and owned the fu
 
 ### 📫 Let's Talk
 
-Actively seeking **Product Manager, Technical PM, and AI PM** roles where deep technical execution is a massive advantage.
+I'm open to Product Manager / AI PM roles where technical depth is an asset, not a distraction.
 
 [LinkedIn](https://www.linkedin.com/in/mahendarj/) · [Portfolio](https://mahendar-jayagopi.helloreps.in) · **mahendarj10@gmail.com**
